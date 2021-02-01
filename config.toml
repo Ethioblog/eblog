@@ -1,0 +1,4 @@
+baseURL = "http://ethioblog.github.io/"
+languageCode = "en-us"
+title = "ethioblog"
+theme = "ananke"
